@@ -1,9 +1,9 @@
 const allowedOrigins = [
-    'https://www.yoursite.com',
-    'http://127.0.0.1:5500',
-    'http://localhost:3500',
-    'http://localhost:3000'
-	'https://multi-user-auth.netlify.app'
+  "https://www.yoursite.com",
+  "http://127.0.0.1:5500",
+  "http://localhost:3500",
+  "http://localhost:3000",
+  "https://multi-user-auth.netlify.app",
 ];
 
 module.exports = allowedOrigins;
